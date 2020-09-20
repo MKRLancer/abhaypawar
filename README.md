@@ -1,13 +1,11 @@
 # Abhay Pawar
 Hey everyone 👋 This is my Github profile and I prefer Verilog over VHDL.
-You can find a few repos and also mini projects built in GoLang.
-Member/ Contribution : Gatsby and Nvidia 
+You can find a few repos and also mini projects built in GoLang. You can find my Matlab based projects and Icarus Verilog repository, which have updated project samples, which can help you get started. 
 
-You may find my fav MATLAB project and Iverilog repo. I keep updating the samples in the repos. They are open for all. You can check them out and if you have any suggestions, consider commenting there below.
-----
-I translate into Indian Languages as well.
+I also help orgs translate into Indian Languages.
+Member/ Contribution Translation : Gatsby-mr and React-mr
+Member: Nvidia GameWorks
 
-####Contribution: React-mr, Gatsby-mr
 ----
 #### Linkedin : https://www.linkedin.com/in/asdpawar
 
