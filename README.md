@@ -40,7 +40,7 @@
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
  </i>
 </p>
-## Heres the stat for this account!
+##  Heres the stat for this account!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
