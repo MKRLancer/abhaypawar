@@ -3,7 +3,7 @@
 
 ## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
-- 📫 How to reach me **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
+📫 How to reach me **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
 
 💬 Ask me about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
 
@@ -44,5 +44,3 @@
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
-![Anurag's github stats](https://github-readme-stats.abhaypawar.vercel.app/api?username=abhaypawar&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.abhaypawar.vercel.app/api/top-langs/?username=abhaypawar&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
