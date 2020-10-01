@@ -36,11 +36,11 @@
 
 ### Happy Open Sourcing! 🤩
 <p>
-  <i>I'm <b>Abhay Pawar</b>, a final year ECE undergrad pursuing B.Tech 🎓 from <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b>VIT- Vellore Institute of Technology Bhopal </b>,</a>. 
-  I love to explore new technologies and leverage them to solve real-life problems ✨.
-  I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.</i>
+ <i> <b> About: </b> <b> Abhay </b>, is a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> VIT-Bhopal Vellore Institute of Technology </b>,</a>. 
+  He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
+ </i>
 </p>
-
+## Heres the stat for this account!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
