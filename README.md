@@ -3,7 +3,7 @@
 
 ## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
-📫 How to reach Abhay **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
+📫 You can reach out to Abhay by **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
 
 ----
 
@@ -37,12 +37,13 @@ Connections are truly appreciated by Abhay over LinkedIn
 
 ### Happy Open Sourcing! 🤩
 <p>
- <i> <b> About: </b> <b> Abhay </b>, is a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> VIT-Bhopal Vellore Institute of Technology </b>,</a>. 
+ <i> <b> About Abhay: </b> He is currently a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology Bhopal, IN </b>,</a>. 
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
-  💬 Ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
+  💬 You can ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
  </i>
 </p>
 ##  Heres the stat for this account!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
+----
 
