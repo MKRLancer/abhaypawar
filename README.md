@@ -30,13 +30,9 @@
 #### I also help orgs maintain their docs as well as translate into Indian Languages.
 #### Member/ Contribution Translation : Gatsby-mr and React-mr
 #### Member: Nvidia GameWorks
-
 ----
 #### Linkedin : https://www.linkedin.com/in/asdpawar
-
 ----
-Happy Open Sourcing!
-
 
 ### Happy Open Sourcing! 🤩
 <p>
@@ -48,6 +44,5 @@ Happy Open Sourcing!
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
-![Anurag's github stats](https://github-readme-stats.spielers.vercel.app/api?username=abhaypawar&show_icons=true&theme=chartreuse-dark)
+![Anurag's github stats](https://github-readme-stats.abhaypawar.vercel.app/api?username=abhaypawar&show_icons=true&theme=chartreuse-dark)
 [![Top Langs](https://github-readme-stats.abhaypawar.vercel.app/api/top-langs/?username=abhaypawar&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
-
