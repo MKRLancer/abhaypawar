@@ -1,5 +1,8 @@
 # Abhay Pawar
 Hey everyone 👋 
+
+## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
+
 I am quite active here on Github and I prefer Verilog over VHDL.
 You can find a few repos and also mini projects built in GoLang. You can find my Matlab based projects and Icarus Verilog repository, which have updated project samples, which can help you get started. 
 
@@ -12,8 +15,6 @@ Member: Nvidia GameWorks
 
 ----
 Happy Open Sourcing!
-## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
-
 <a href="https://github.com/abhaypawar" target="_blank">
   <img align="left" alt="Abhay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
