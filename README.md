@@ -35,7 +35,7 @@ Connections are truly appreciated by Abhay over LinkedIn
 #### Linkedin : https://www.linkedin.com/in/asdpawar
 ----
 
-### Happy Open Sourcing! 🤩
+
 <p>
  <i> <b> About Abhay: </b> He is currently a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology Bhopal, IN </b>,</a>. 
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
@@ -46,5 +46,5 @@ Connections are truly appreciated by Abhay over LinkedIn
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 ----
-https://github.com/atmos/camo/blob/master/test/servers/octocat.jpg  <b> Happy Open Sourcing! </b>
+<b> Happy Open Sourcing! </b>
 
