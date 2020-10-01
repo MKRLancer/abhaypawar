@@ -39,6 +39,7 @@ Connections are truly appreciated by Abhay over LinkedIn
 <p>
  <i> About: Abhay is currently a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology Bhopal, IN </b>,</a>. 
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
+  
   💬 You can ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
  </i>
 </p>
