@@ -42,9 +42,24 @@ Connections are truly appreciated by Abhay over LinkedIn
   💬 You can ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
  </i>
 </p>
-##  Heres the stat for this account!
+<b> Heres the stat for this account! </b>
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 ----
+### Blogs Posts
+<!-- BLOG-POST-LIST:START -->
+- [Using OSS Methods can lead to producing a better product](https://medium.com/@asdpawar/using-oss-methods-can-lead-to-producing-a-better-product-8482dcf91eba)
+- [How to Write and Publish a Scientific Paper](https://www.linkedin.com/pulse/heres-checking-list-how-write-publish-scientific-paper-abhay-pawar)
+- [Open Source EDA CAD tools](https://medium.com/@asdpawar/open-source-cad-tools-e439d6ebd028)
+- [HLS Design Flow: A Novel Approach for efficient DSE in case of multi-parametric optimization objectives](https://medium.com/@asdpawar/high-level-synthesis-design-flow-a-new-design-space-exploration-approach-57fb9ed84593)
+- [Explained: ASIC Physical Design Flow](https://medium.com/@asdpawar/explained-asic-physical-design-flow-b021f1e0290a)
+<!-- BLOG-POST-LIST:END -->
+
+### Published Works
+<!-- BLOG-POST-LIST:START -->
+- [IoT-based Decision Support System for Intelligent Healthcare -Applied to Cardiovascular Diseases](https://www.researchgate.net/publication/341606607_IoT-based_Decision_Support_System_for_Intelligent_Healthcare_-Applied_to_Cardiovascular_Diseases#fullTextFileContent)
+- [Forceps type tool microwave energy in healthcare application](https://www.slideshare.net/AbhayPawar15/forceps-type-tool-microwave-energy-in-healthcare-application?from_m_app=android)
+<!-- BLOG-POST-LIST:END -->
+
 <b> Happy Open Sourcing! </b>
 
