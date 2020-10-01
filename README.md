@@ -1,12 +1,12 @@
 # Abhay Pawar
-Hey everyone 👋 
+ 
 
 ## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 I am quite active here on Github and I prefer Verilog over VHDL.
 You can find a few repos and also mini projects built in GoLang. You can find my Matlab based projects and Icarus Verilog repository, which have updated project samples, which can help you get started. 
 
-I also help orgs translate into Indian Languages.
+I also help orgs maintain their docs as well as translate into Indian Languages.
 Member/ Contribution Translation : Gatsby-mr and React-mr
 Member: Nvidia GameWorks
 
@@ -18,6 +18,9 @@ Happy Open Sourcing!
 <a href="https://github.com/abhaypawar" target="_blank">
   <img align="left" alt="Abhay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://instagram.com/asdpawar/" target="_blank">
+  <img align="left" alt="Abhay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
 <a href="https://twitter.com/asdpawar" target="_blank">
   <img align="left" alt="Abhay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -27,9 +30,7 @@ Happy Open Sourcing!
 <a href="https://github.com/asdpawar" target="_blank">
   <img align="left" alt="Abhay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
-<a href="https://instagram.com/asdpawar/" target="_blank">
-  <img align="left" alt="Abhay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
+
 <br />
 
 ### Glad to see you here! 🤩
