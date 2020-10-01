@@ -3,10 +3,7 @@
 
 ## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
-📫 How to reach me **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
-
-💬 Ask me about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
-
+📫 How to reach Abhay **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
 <a href="https://github.com/abhaypawar" target="_blank">
   <img align="left" alt="Abhay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
@@ -24,12 +21,13 @@
 </a>
 <br />
 
-#### I am quite active here on Github and I prefer Verilog over VHDL.
-#### You can find a few repos and also mini projects built in GoLang. You can find my Matlab based projects and Icarus Verilog repository, which have updated project samples, which can help you get started. 
+#### He is quite active here on Github and prefers Verilog over VHDL.
+#### You can find a few repositories and also mini projects built in GoLang. You can find the Matlab based projects and Icarus Verilog repository too, which have the updated project samples, that can help you get started. 
 
-#### I also help orgs maintain their docs as well as translate into Indian Languages.
+#### He also help orgs maintain their docs as well as translate into Indian Languages.
 #### Member/ Contribution Translation : Gatsby-mr and React-mr
 #### Member: Nvidia GameWorks
+Connections are truly appreciated by Abhay over LinkedIn
 ----
 #### Linkedin : https://www.linkedin.com/in/asdpawar
 ----
@@ -38,6 +36,7 @@
 <p>
  <i> <b> About: </b> <b> Abhay </b>, is a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> VIT-Bhopal Vellore Institute of Technology </b>,</a>. 
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
+  💬 Ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
  </i>
 </p>
 ##  Heres the stat for this account!
