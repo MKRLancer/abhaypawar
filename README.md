@@ -35,7 +35,7 @@ Happy Open Sourcing!
 
 ### Glad to see you here! 🤩
 <p>
-  <i>I'm <b>Abhay Pawar</b>, a final year ECE undergrad pursuing B.Tech 🎓 from <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b>VIT- Vellore Institute of Technology Bhopal </b>, Bhopal </a>. 
+  <i>I'm <b>Abhay Pawar</b>, a final year ECE undergrad pursuing B.Tech 🎓 from <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b>VIT- Vellore Institute of Technology Bhopal </b>,</a>. 
   I love to explore new technologies and leverage them to solve real-life problems ✨.
   I'm a passionate learner who's always willing to learn and work across technologies and domains 💡.</i>
 </p>
@@ -44,5 +44,5 @@ Happy Open Sourcing!
 - 👯 Looking to collaborate on new project ideas 👨‍💻
 - 😄 Pronouns: He/Him 🙍🏻‍♂️
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Yash-Garg&count_private=true&show_icons=true&title_color=333&icon_color=333)
+![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
 
