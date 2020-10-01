@@ -37,7 +37,7 @@ Connections are truly appreciated by Abhay over LinkedIn
 
 
 <p>
- <i> <b> About Abhay: </b> He is currently a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology Bhopal, IN </b>,</a>. 
+ <i> About: Abhay is currently a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology Bhopal, IN </b>,</a>. 
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
   💬 You can ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
  </i>
@@ -54,7 +54,7 @@ Connections are truly appreciated by Abhay over LinkedIn
 - [HLS Design Flow: A Novel Approach for efficient DSE in case of multi-parametric optimization objectives](https://medium.com/@asdpawar/high-level-synthesis-design-flow-a-new-design-space-exploration-approach-57fb9ed84593)
 - [Explained: ASIC Physical Design Flow](https://medium.com/@asdpawar/explained-asic-physical-design-flow-b021f1e0290a)
 <!-- BLOG-POST-LIST:END -->
-
+---- 
 ### Published Works
 <!-- BLOG-POST-LIST:START -->
 - [IoT-based Decision Support System for Intelligent Healthcare -Applied to Cardiovascular Diseases](https://www.researchgate.net/publication/341606607_IoT-based_Decision_Support_System_for_Intelligent_Healthcare_-Applied_to_Cardiovascular_Diseases#fullTextFileContent)
