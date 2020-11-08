@@ -62,5 +62,6 @@ Connections are truly appreciated by Abhay over LinkedIn
 - [Forceps type tool microwave energy in healthcare application](https://www.slideshare.net/AbhayPawar15/forceps-type-tool-microwave-energy-in-healthcare-application?from_m_app=android)
 <!-- BLOG-POST-LIST:END -->
 
+PS Successfully completed Hacktoberfest 2020
 <b> Happy Open Sourcing! </b>
 
