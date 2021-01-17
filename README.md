@@ -24,7 +24,7 @@
 </a>
 <br />
 
-#### He is quite active here on Github and prefers Verilog over VHDL.
+#### Abhay is quite active here on Github and prefers Verilog over VHDL.
 #### You can find a few repositories and also mini projects built in GoLang. You can find the Matlab based projects and Icarus Verilog repository too, which have the updated project samples, that can help you get started. 
 
 #### He also help orgs maintain their docs as well as translate into Indian Languages.
