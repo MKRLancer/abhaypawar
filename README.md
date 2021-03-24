@@ -28,7 +28,7 @@
 #### You can find a few repositories and also mini projects built in GoLang. You can find the Matlab based projects and Icarus Verilog repository too, which have the updated project samples, that can help you get started. 
 
 #### He also help orgs maintain their docs as well as translate into Indian Languages.
-#### Member/ Contribution Translation : Gatsbyjs | Reactjs | Appwrite
+#### Member/ Contribution Translation : Gatsbyjs https://camo.githubusercontent.com/ba9df1e4c5f7c9f6503f2668f03a934b4553c5840dd6067ee1ab013c2af86afc/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6761747362796a732f6761747362796a732d69636f6e2e737667 | Reactjs | Appwrite
 #### Member: Nvidia GameWorks
 Connections are truly appreciated by Abhay over LinkedIn
 ----
