@@ -29,6 +29,9 @@
 
 #### He also help orgs maintain their docs as well as translate into Indian Languages.
 #### Member/ Contribution Translation : Gatsbyjs | Reactjs | Appwrite
+ @gatsbyjs
+ @reactjs
+ @appwrite
 #### Member: Nvidia GameWorks
 Connections are truly appreciated by Abhay over LinkedIn
 ----
