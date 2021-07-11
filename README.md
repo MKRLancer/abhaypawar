@@ -1,11 +1,6 @@
-# Abhay Pawar
- 
+## Hello Open Source Developers! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
-## Hello Contributors! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
-
-📫 You can reach out to Abhay by **asdpawar18@gmail.com** and <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> abhaypawar#4671
-
-----
+Mail at **abhaydnyandeopawar@gmail.com** <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> at abhaypawar#4671
 
 <a href="https://github.com/abhaypawar" target="_blank">
   <img align="left" alt="Abhay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
@@ -22,10 +17,23 @@
 <a href="https://github.com/asdpawar" target="_blank">
   <img align="left" alt="Abhay's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
 </a>
+<a href="https://www.researchgate.net/profile/Abhay-Pawar" target="_blank">
+  <img align="left" alt="Abhay's ResearchGate" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/researchgate.svg" />
+</a>
+<a href="https://medium.com/@asdpawar" target="_blank">
+  <img align="left" alt="Abhay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 <br />
+----
 
-#### Abhay is quite active here on Github and prefers Verilog over VHDL.
-#### You can find a few repositories and also mini projects built in GoLang. You can find the Matlab based projects and Icarus Verilog repository too, which have the updated project samples, that can help you get started. 
+#### You can find a few repositories and also mini projects built in GoLang. 
+Abhay considers himself a newbie at Open Source World and is currently working on <a href="https://www.github.com/abhaypawar" target="_blank">
+  <img align="left" alt="Abhay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+</a>
+<a href="https://www.github.com/abhaypawar" target="_blank">
+  <img align="left" alt="Abhay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+ </a>
+You can find the Matlab based projects and Icarus Verilog repository too, which have the updated project samples, that can help you get started. 
 
 #### He also help orgs maintain their docs as well as translate into Indian Languages.
 #### Member/ Contribution Translation : Gatsbyjs | Reactjs | Appwrite
