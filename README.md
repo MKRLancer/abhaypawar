@@ -33,7 +33,8 @@ Mail at **abhaydnyandeopawar@gmail.com** <img src="https://img.shields.io/badge/
   <img align="left" alt="Abhay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
 </a>
 <br />
-----
+
+
 
 #### You can find a few repositories and also mini projects built in GoLang. 
 
@@ -63,9 +64,11 @@ Connections are truly appreciated by Abhay over LinkedIn
   💬 You can ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
  </i>
 </p>
-<b> Heres the stat for this account! </b>
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&count_private=true&show_icons=true&title_color=333&icon_color=333)
+## 🔔 𝙼𝚢 𝙻𝚊𝚝𝚎𝚜𝚝 𝙶𝚒𝚝𝙷𝚞𝚋 𝙼𝚎𝚝𝚛𝚒𝚌𝚜
+![Metrics](https://metrics.lecoq.io/abhaypawar?template=classic&base.header=0&gists=1&lines=1&config.timezone=America%2FToronto)
+
+
 ----
 ### Blogs Posts
 <!-- BLOG-POST-LIST:START -->
