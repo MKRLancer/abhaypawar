@@ -1,5 +1,5 @@
 <p align="center">
-<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/main/abhay%20pic.jpg" <p align="center"> 
+<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><p align="center"> 
   Visitor Count<br>
 <img src="https://profile-counter.glitch.me/abhaypawar/count.svg" />
 </p>
