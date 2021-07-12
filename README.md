@@ -1,5 +1,5 @@
 <p align="center">
-<img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/blob/main/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/blob/main/Untiled%20design(2).jpg" />
+<img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/blob/main/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/blob/main/abhay%20pic.jpg" />
 </p>
 
 ## Hello Open Source Developers! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
