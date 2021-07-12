@@ -1,5 +1,6 @@
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhaypawar&show_icons=true&theme=radical)
-![github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&show_icons=true&theme=radical)
+<p align="center">
+<img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/blob/main/Readme%20GIF.gif" /><img align="" height='150px' src="https://github.com/abhaypawar/abhaypawar/blob/main/Untiled%20design(2).jpg" />
+</p>
 
 ## Hello Open Source Developers! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
@@ -47,6 +48,10 @@ You can find the Matlab based projects and Icarus Verilog repository on the prof
  @gatsbyjs
  @reactjs
  @appwrite
+ 
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhaypawar&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&show_icons=true&theme=radical)
+
 #### Member: VLSI - World
 #### Member: Doocs
 #### Member: Nvidia GameWorks
