@@ -8,6 +8,12 @@ Mail at **abhaydnyandeopawar@gmail.com** <img src="https://img.shields.io/badge/
 <a href="https://instagram.com/asdpawar/" target="_blank">
   <img align="left" alt="Abhay's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
+<a href="https://www.github.com/abhaypawar" target="_blank">
+  <img align="left" alt="Abhay's Gatsby association" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
+</a>
+<a href="https://www.github.com/abhaypawar" target="_blank">
+  <img align="left" alt="Abhay's Git" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
+ </a>
 <a href="https://twitter.com/asdpawar" target="_blank">
   <img align="left" alt="Abhay's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
@@ -28,23 +34,19 @@ Mail at **abhaydnyandeopawar@gmail.com** <img src="https://img.shields.io/badge/
 
 #### You can find a few repositories and also mini projects built in GoLang. 
 
-Abhay considers himself a newbie at Open Source World and is currently working on <a href="https://www.github.com/abhaypawar" target="_blank">
-  <img align="left" alt="Abhay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gatsby.svg" />
-</a>
-<a href="https://www.github.com/abhaypawar" target="_blank">
-  <img align="left" alt="Abhay's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/git.svg" />
- </a>
-You can find the Matlab based projects and Icarus Verilog repository too, which have the updated project samples, that can help you get started. 
-### My Stats!
-![Anurag's github stats](https://github-readme-stats.abhaypawar.vercel.app/api?username=abhaypawar&show_icons=true&theme=chartreuse-dark)
-[![Top Langs](https://github-readme-stats.abhaypawar.vercel.app/api/top-langs/?username=abhaypawar&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
+Abhay considers himself a begineer in this amazing world of Open Source and is currently working on Matlab | Technical Writing | ASIC Designing | Digital Electronics | LTSpice | GoLang | Python | C - Based Verilog Designing | HLS Design Flow Projects
+
+You can find the Matlab based projects and Icarus Verilog repository on the profile, which have the updated project samples, that can help you get started if you're a newbie. 
 
 #### He also help orgs maintain their docs as well as translate into Indian Languages.
 #### Member/ Contribution Translation : Gatsbyjs | Reactjs | Appwrite
  @gatsbyjs
  @reactjs
  @appwrite
+#### Member: VLSI - World
+#### Member: Doocs
 #### Member: Nvidia GameWorks
+
 Connections are truly appreciated by Abhay over LinkedIn
 ----
 #### Linkedin : https://www.linkedin.com/in/asdpawar
@@ -52,7 +54,7 @@ Connections are truly appreciated by Abhay over LinkedIn
 
 
 <p>
- <i> About: Abhay is currently a final year B.Tech ECE undergrad 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology Bhopal, IN </b>,</a>. 
+ <i> About: Abhay is a recent graduate with majors in ECE with 81% percentage 🎓 at <a href="https://www.vitbhopal.ac.in/" target="_blank"> <b> Vellore Institute of Technology, IN </b>,</a>. 
   He is passionate about new technologies 💡 and is dedicated to explore them to solve real-life problems ✨.
   
   💬 You can ask him about **Verilog | ASIC Design | Embedded Systems | Wireless and Computer Communications**
