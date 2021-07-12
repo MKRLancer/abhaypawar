@@ -1,3 +1,6 @@
+![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhaypawar&show_icons=true&theme=radical)
+![github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&show_icons=true&theme=radical)
+
 ## Hello Open Source Developers! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 Mail at **abhaydnyandeopawar@gmail.com** <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> at abhaypawar#4671
