@@ -1,11 +1,3 @@
-<p align="center">
-<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><p align="center"> 
-  Visitor Count<br>
-<img src="https://profile-counter.glitch.me/abhaypawar/count.svg" />
-</p>
-/>
-</p>
-
 ## Hello Open Source Developers! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px"></h2>
 
 Mail at **abhaydnyandeopawar@gmail.com** <img src="https://img.shields.io/badge/discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"/> at abhaypawar#4671
@@ -96,4 +88,10 @@ Connections are truly appreciated by Abhay over LinkedIn
 
 PS Successfully completed Hacktoberfest 2020
 <b> Happy Open Sourcing! </b>
+
+<p align="center">
+<img align="" height='150px' src="https://github.com/aryashah2k/aryashah2k/blob/main/assets/Readme%20GIF.gif" /><p align="center"> 
+  Visitor Count<br>
+<img src="https://profile-counter.glitch.me/abhaypawar/count.svg" />
+ 
 
