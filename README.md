@@ -40,10 +40,8 @@ Abhay considers himself a begineer in this amazing world of Open Source and is c
 You can find the Matlab based projects and Icarus Verilog repository on the profile, which have the updated project samples, that can help you get started if you're a newbie. 
 
 #### He also help orgs maintain their docs as well as translate into Indian Languages.
-#### Member/ Contribution Translation : Gatsbyjs | Reactjs | Appwrite
- @gatsbyjs
- @reactjs
- @appwrite
+#### Contribution Translation : Gatsbyjs | Reactjs | Appwrite
+
  
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=abhaypawar&show_icons=true&theme=radical)
 ![github stats](https://github-readme-stats.vercel.app/api?username=abhaypawar&show_icons=true&theme=radical)
@@ -51,6 +49,7 @@ You can find the Matlab based projects and Icarus Verilog repository on the prof
 #### Member: VLSI - World
 #### Member: Doocs
 #### Member: Nvidia GameWorks
+#### Member: FOSSASIA
 
 Connections are truly appreciated by Abhay over LinkedIn
 ----
