@@ -50,6 +50,7 @@ You can find the Matlab based projects and Icarus Verilog repository on the prof
 #### Member: Doocs
 #### Member: Nvidia GameWorks
 #### Member: FOSSASIA
+#### Member: fnplus
 
 Connections are truly appreciated by Abhay over LinkedIn
 ----
